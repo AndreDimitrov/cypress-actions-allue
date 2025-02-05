@@ -10,6 +10,8 @@
   "author": "Fernando Papito",
   "license": "MIT",
   "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.2",
+    "allure-commandline": "^2.32.0",
     "cypress": "12.5.1"
   }
 }
