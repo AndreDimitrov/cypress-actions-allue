@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","830","usuário não existe","","Thu Feb 06 03:41:58 GMT 2025","passed","Thu Feb 06 03:41:59 GMT 2025","","Login","",""
+"","780","senha incorreta","","Thu Feb 06 03:41:59 GMT 2025","passed","Thu Feb 06 03:42:00 GMT 2025","","Login","",""
+"","1117","usuário obrigatório","","Thu Feb 06 03:41:56 GMT 2025","passed","Thu Feb 06 03:41:58 GMT 2025","","Login","",""
+"","865","com sucesso","","Thu Feb 06 03:42:00 GMT 2025","passed","Thu Feb 06 03:42:01 GMT 2025","","Login","",""
+"","588","senha obrigatória","","Thu Feb 06 03:41:58 GMT 2025","passed","Thu Feb 06 03:41:58 GMT 2025","","Login","",""
